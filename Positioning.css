@@ -50,11 +50,12 @@ header nav {
 
 #thanks {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 0px;
+    right: 0px;
     background-color: lightblue; 
     width: 200px;
-    height: 150px;
+    height: 50px;
+    text-align: center;
 }
 
 #container {
